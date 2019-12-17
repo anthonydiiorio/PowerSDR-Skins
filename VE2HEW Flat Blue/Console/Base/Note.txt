@@ -1,0 +1,14 @@
+16x20:
+XIT/RIT Reset 0 
+
+32x20 up5:
+XIT/RIT
+
+40x20: (40x24)
+Panadater Zoom Level
+
+longled
+General w/ LED
+
+80x23:
+Squelch
