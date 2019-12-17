@@ -1,13 +1,24 @@
 # PowerSDR-Skins
-Skins for PowerSDR, OpenHPSDR, Thetis, etc.
+Skins for PowerSDR, OpenHPSDR, Thetis, NaP3, etc.
 
 ## Instructions
 
-For Thetis, copy skin folder to `%AppData%\OpenHPSDR\Skins`
+### PowerSDR, OpenHPSDR, Thetis
 
-For PowerSDR & mRX PS, copy skin folder to `%AppData%\FlexRadio Systems\PowerSDR\skins`
+**Thetis:** copy skin folder to `%AppData%\OpenHPSDR\Skins`
 
-Enable Skin: `Setup -> Appearance -> General -> Select Skin`
+**PowerSDR & mRX PS:** copy skin folder to `%AppData%\FlexRadio Systems\PowerSDR\skins`
+
+Enable Skin: `Setup -> Appearance -> General -> Skins`
+
+### NaP3
+
+**Build:** Run `Skin Folder\Console\Base\build-NaP3.bat` to generate NaP3 skin
+
+**NaP3:** copy skin folder to `%ProgramFiles(x86)%\NaP3\Skins`
+
+Enable Skin: `Setup -> Configure Nap3 -> Colours -> General -> Skins`
+
 
 ## VE2HEW Flat Blue
 
