@@ -2,6 +2,7 @@
 Skins for PowerSDR, OpenHPSDR, Thetis, NaP3, etc.
 
 - [Installation Instructions](#instructions)
+- [Colour Setup](#setup---appearance)
 
 ## VE2HEW Flat Blue
 
