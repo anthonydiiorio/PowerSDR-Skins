@@ -1,6 +1,10 @@
 # PowerSDR-Skins
 Skins for PowerSDR, OpenHPSDR, Thetis, NaP3, etc.
 
+## VE2HEW Flat Blue
+
+![](/VE2HEW%20Flat%20Blue/VE2HEW-Flat-Blue.png)
+
 ## Instructions
 
 ### PowerSDR, OpenHPSDR, Thetis
@@ -26,6 +30,3 @@ Enable Skin: `Setup -> Configure Nap3 -> Colours -> General -> Skins`
 Rebuild theme with `build-PowerSDR.bat` or `build-NaP3.bat`
 
 
-## VE2HEW Flat Blue
-
-![](/VE2HEW%20Flat%20Blue/VE2HEW-Flat-Blue.png)
